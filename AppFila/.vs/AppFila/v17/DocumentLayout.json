@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique\\Downloads\\AppFila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|c:\\users\\henrique\\downloads\\appfila\\appfila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|solutionrelative:appfila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|C:\\Users\\Henrique\\Downloads\\AppFila\\appfila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|solutionrelative:appfila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|C:\\Users\\Henrique\\Downloads\\AppFila\\appfila\\bll\\daologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|solutionrelative:appfila\\bll\\daologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|C:\\Users\\Henrique\\Downloads\\AppFila\\appfila\\dal\\fabricaconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|solutionrelative:appfila\\dal\\fabricaconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|C:\\Users\\Henrique\\Downloads\\AppFila\\appfila\\ui\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04F6F296-7291-4F1F-AADB-7CABD5C59053}|AppFila\\AppFila.csproj|solutionrelative:appfila\\ui\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FabricaConexao.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\DAL\\FabricaConexao.cs",
+              "RelativeDocumentMoniker": "AppFila\\DAL\\FabricaConexao.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\DAL\\FabricaConexao.cs",
+              "RelativeToolTip": "AppFila\\DAL\\FabricaConexao.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:14:28.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\UI\\TelaPrincipal.cs",
+              "RelativeDocumentMoniker": "AppFila\\UI\\TelaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\UI\\TelaPrincipal.cs [Design]",
+              "RelativeToolTip": "AppFila\\UI\\TelaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:14:28.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\BLL\\DAOLogin.cs",
+              "RelativeDocumentMoniker": "AppFila\\BLL\\DAOLogin.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\BLL\\DAOLogin.cs",
+              "RelativeToolTip": "AppFila\\BLL\\DAOLogin.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:14:28.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\Form1.cs",
+              "RelativeDocumentMoniker": "AppFila\\Form1.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\Form1.cs",
+              "RelativeToolTip": "AppFila\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA6wE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:14:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\Form1.cs",
+              "RelativeDocumentMoniker": "AppFila\\Form1.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\AppFila\\AppFila\\Form1.cs [Design]",
+              "RelativeToolTip": "AppFila\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:14:28.686Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
